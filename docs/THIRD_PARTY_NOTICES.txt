@@ -1,0 +1,28 @@
+THIRD-PARTY SOFTWARE NOTICES
+
+This product includes the following third-party software:
+
+----------------------------------------
+1. FFmpeg
+----------------------------------------
+Website: https://ffmpeg.org
+License: LGPL / GPL
+
+FFmpeg is a complete, cross-platform solution to record, convert and stream audio and video.
+
+Source Code:
+https://github.com/dronj14/portable-video-downloader/tree/main/ffmpeg-source
+
+----------------------------------------
+2. yt-dlp
+----------------------------------------
+Website: https://github.com/yt-dlp/yt-dlp
+License: The Unlicense
+
+yt-dlp is a command-line program to download videos from YouTube and other platforms.
+
+----------------------------------------
+
+This product is not affiliated with or endorsed by the FFmpeg or yt-dlp projects.
+
+Users are responsible for ensuring compliance with applicable laws and platform terms of service.
