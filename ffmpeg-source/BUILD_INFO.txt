@@ -1,0 +1,12 @@
+FFmpeg Build Information
+
+This product includes FFmpeg.
+
+Source:
+https://github.com/FFmpeg/FFmpeg
+
+No modifications were made to the original source.
+
+Purpose:
+- Video/audio merging
+- Media processing
