@@ -55,10 +55,15 @@ https://github.com/dronj14/portable-video-downloader/tree/main/ffmpeg-source
 
 ---
 
-## 📌 Disclaimer
+## Disclaimer
 
-This tool is intended for personal use only.  
+This tool is intended for personal use only.
+
 Users are responsible for complying with local laws and platform terms of service.
+
+This software does not host or store any content.
+
+© 2026 Dennis Ronio. All rights reserved.
 
 ---
 
